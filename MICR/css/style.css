@@ -1,0 +1,15 @@
+#topnav{
+  top: 0;
+  position: sticky;
+  z-index: 1;
+}
+
+.item-center img {
+  width: 100%;
+}
+.item-center {
+  padding: 50px;
+}
+#arrow-1:hover{
+  cursor: pointer;
+}
